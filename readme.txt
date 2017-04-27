@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick adn simple.
 Git can merge branches.
+Git is easy.
